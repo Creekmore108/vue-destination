@@ -1,3 +1,5 @@
+<img src="https://github.com/Creekmore108/vue-destination/blob/main/src/destination01.png">
+<img src="https://github.com/Creekmore108/vue-destination/blob/main/src/destination02.png">
 # vue-destination
 
 ## Project setup
